@@ -1,0 +1,2 @@
+# CrazyHSF.github.io
+blog
